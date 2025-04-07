@@ -14,7 +14,7 @@ This course covers the following topics:
 - Model Development and Regression
 - Classification Algorithms 
 - Clustering Techniques
-- Introduction to Neural Networks
+- Neural Networks
 
 ## Repository Contents
 
